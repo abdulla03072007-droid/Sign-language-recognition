@@ -137,9 +137,3 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
-
-
-
-model-training/dataset/
-model-training/model.h5
-*.h5
